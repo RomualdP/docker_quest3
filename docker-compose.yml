@@ -9,4 +9,4 @@ services:
         build: ./client
         ports: 
             - 8080:3000
-        command: npm run start
+        command: npm start
