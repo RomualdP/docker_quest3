@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Test du hot reload bis
+          Test du hot reload
         </a>
       </header>
     </div>
